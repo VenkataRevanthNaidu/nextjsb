@@ -7,7 +7,6 @@ export default function ChessPage() {
   return <div ref={makeGame} />;
 }
 
-
 // maps js-chess-engine's codes to text chess pieces
 const GLYPHS = {
   K: "♔", Q: "♕", R: "♖", B: "♗", N: "♘", P: "♙",
