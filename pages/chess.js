@@ -91,6 +91,7 @@ function makeGame(div) {
   });
 
 }
+
   function addStyle(square,gameState){
 
     if (square != null) {
